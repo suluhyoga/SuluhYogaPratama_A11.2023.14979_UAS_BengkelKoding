@@ -51,34 +51,6 @@ Proyek ini dibuat sebagai pemenuhan Ujian Akhir Semester mata kuliah **Bengkel K
 
 ---
 
-## ⚙️ Cara Menjalankan Secara Lokal
-
-1. **Clone repository**
-   ```bash
-   git clone https://github.com/<username>/<nama-repo>.git
-   cd <nama-repo>
-   ```
-
-2. **Buat virtual environment (opsional, disarankan)**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate      # Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependensi**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Jalankan aplikasi**
-   ```bash
-   streamlit run app.py
-   ```
-
-5. Buka browser ke `http://localhost`
-
----
-
 ## 🚀 Tech Stack
 
 - **Python 3.12**
