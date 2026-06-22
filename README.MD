@@ -1,11 +1,11 @@
-# 📉 Prediksi Customer Churn — Sales and Marketing Dataset
+# 📉 Prediksi Customer Churn - Sales and Marketing Dataset
 
 Aplikasi web untuk memprediksi kemungkinan **customer churn** (pelanggan berhenti berlangganan/menggunakan layanan) berdasarkan data perilaku dan transaksi pelanggan. Dibangun menggunakan **Streamlit** dan model **Random Forest Classifier**.
 
 Proyek ini dibuat sebagai pemenuhan Ujian Akhir Semester mata kuliah **Bengkel Koding Data Science**.
 
-**Nama  :** Suluh Yoga Pratama
-**NIM   :** A11.2023.14979
+**Nama  :** Suluh Yoga Pratama  
+**NIM   :** A11.2023.14979  
 **Kelas :** DS-01
 
 🔗 **Demo Aplikasi:** [suluhyogapratama-prediksi-churn.streamlit.app](https://suluhyogapratama-prediksi-churn.streamlit.app/)
@@ -75,7 +75,7 @@ Proyek ini dibuat sebagai pemenuhan Ujian Akhir Semester mata kuliah **Bengkel K
    streamlit run app.py
    ```
 
-5. Buka browser ke `http://localhost:8501`
+5. Buka browser ke `http://localhost`
 
 ---
 
