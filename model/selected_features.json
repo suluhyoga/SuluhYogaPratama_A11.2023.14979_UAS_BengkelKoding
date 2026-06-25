@@ -1,1 +1,1 @@
-["satisfaction_score", "total_spent", "support_tickets", "device_type", "country", "payment_method", "acquisition_channel", "city", "delivery_delay_days"]
+["satisfaction_score", "total_spent", "support_tickets", "payment_method", "country", "device_type", "city", "acquisition_channel", "delivery_delay_days"]
