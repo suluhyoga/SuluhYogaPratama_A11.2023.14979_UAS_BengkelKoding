@@ -240,7 +240,7 @@ if st.session_state.get("predict_btn"):
             ✅ STATUS: TIDAK CHURN
         </div>
         <div style='color: #2ECC71; font-weight: bold; font-size: 2.2em; text-align: center; margin-bottom: 8px;'>
-            {prob_churn:.1f}%
+        {pred_proba[0]*100:.1f}%
         </div>
         <p style='color: #B2BEC3; text-align: center; margin-bottom: 25px;'>Kondisi loyalitas pelanggan stabil. Pertahankan performa layanan dan program engagement berkala.</p>
         """, unsafe_allow_html=True)
